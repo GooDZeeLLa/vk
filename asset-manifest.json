@@ -1,26 +1,27 @@
 {
   "files": {
-    "main.css": "./static/css/main.ba20864e.chunk.css",
-    "main.js": "./static/js/main.72871969.chunk.js",
-    "main.js.map": "./static/js/main.72871969.chunk.js.map",
+    "main.css": "./static/css/main.0485d1ef.chunk.css",
+    "main.js": "./static/js/main.0c4f77d6.chunk.js",
+    "main.js.map": "./static/js/main.0c4f77d6.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.c9a1e25b.js",
     "runtime-main.js.map": "./static/js/runtime-main.c9a1e25b.js.map",
-    "static/css/2.86df01db.chunk.css": "./static/css/2.86df01db.chunk.css",
-    "static/js/2.fae4c283.chunk.js": "./static/js/2.fae4c283.chunk.js",
-    "static/js/2.fae4c283.chunk.js.map": "./static/js/2.fae4c283.chunk.js.map",
+    "static/css/2.1a9af9df.chunk.css": "./static/css/2.1a9af9df.chunk.css",
+    "static/js/2.8c4577f6.chunk.js": "./static/js/2.8c4577f6.chunk.js",
+    "static/js/2.8c4577f6.chunk.js.map": "./static/js/2.8c4577f6.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.c53120553f2f58f20d46b6eda27c97c0.js": "./precache-manifest.c53120553f2f58f20d46b6eda27c97c0.js",
+    "precache-manifest.60713bca1e29bb5a92f2c8e82fc51f6a.js": "./precache-manifest.60713bca1e29bb5a92f2c8e82fc51f6a.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/2.86df01db.chunk.css.map": "./static/css/2.86df01db.chunk.css.map",
-    "static/css/main.ba20864e.chunk.css.map": "./static/css/main.ba20864e.chunk.css.map",
-    "static/js/2.fae4c283.chunk.js.LICENSE.txt": "./static/js/2.fae4c283.chunk.js.LICENSE.txt",
-    "static/media/persik.png": "./static/media/persik.4e1ec840.png"
+    "static/css/2.1a9af9df.chunk.css.map": "./static/css/2.1a9af9df.chunk.css.map",
+    "static/css/main.0485d1ef.chunk.css.map": "./static/css/main.0485d1ef.chunk.css.map",
+    "static/js/2.8c4577f6.chunk.js.LICENSE.txt": "./static/js/2.8c4577f6.chunk.js.LICENSE.txt",
+    "static/media/persik.png": "./static/media/persik.4e1ec840.png",
+    "static/media/vid.mp4": "./static/media/vid.e14b975c.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.c9a1e25b.js",
-    "static/css/2.86df01db.chunk.css",
-    "static/js/2.fae4c283.chunk.js",
-    "static/css/main.ba20864e.chunk.css",
-    "static/js/main.72871969.chunk.js"
+    "static/css/2.1a9af9df.chunk.css",
+    "static/js/2.8c4577f6.chunk.js",
+    "static/css/main.0485d1ef.chunk.css",
+    "static/js/main.0c4f77d6.chunk.js"
   ]
 }
